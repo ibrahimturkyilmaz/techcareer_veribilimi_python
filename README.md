@@ -1,5 +1,4 @@
-# techcareer_veribilimi_python
-TechCareer Veri Bilimi Yaz Kampı - 2025
+
 <div align="center">
 
 # 🐍 TechCareer Veri Bilimi Yaz Kampı - 2025
