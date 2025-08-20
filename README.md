@@ -5,7 +5,9 @@
 📘 Katıldığım Python kursu kapsamında hazırladığım ödevler  
   Bu repo, katıldığım Python kursu kapsamında hazırladığım ödevleri içermektedir.  
   Her ödev **Jupyter Notebook** formatında hazırlanmış olup GitHub üzerinden direkt görüntülenebilir.
+Kendinizi geliştirmenin en iyi yolu olan [Techcareer](https://www.techcareer.net/) internet adresine gidip eğitimlere göz atabilirsiniz. 
 
+Linkedin Profilime Gitmek için [tıklayınız.](https://www.linkedin.com/in/ibrahim-turkyilmaz-68a188253/)
   
 ## 📂 İçindekiler
 | Bölüm | Konular | Açıklama |
